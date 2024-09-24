@@ -6,12 +6,23 @@
   </a>
 </h1>
 
-
-- 👋 Hi, I’m @mini-duo-art
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ <h3 align="center">
+  A passionate Full Stack Developer with expertise in Next.js, TypeScript, Python, FastAPI and Docker.
+  </h3>
+-  I’m currently learning Genai From PIAIC
+<h2>🤝 Available On:</h2>
+<div align="center"> 
+  
+  <a href="muzzamilh795@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-rehan-ul-haq-b60a4b2a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/mini-duo-art" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
