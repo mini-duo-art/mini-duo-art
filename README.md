@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Em-Aar.Em-Aar&left_color=red&right_color=green&left_text=Visitors" />
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,22 +9,24 @@
  <h3 align="center">
   A passionate Full Stack Developer with expertise in Next.js, TypeScript, Python, FastAPI and Docker.
   </h3>
--  I’m currently learning Genai From PIAIC
+  <br/>
+<h3>🚀 About</h3>
+<p>
+Web developer specializing in Python and API creation.<br/> Built a microservices-based e-commerce platform<br/> and a chatbot using LangChain and Gemini. </p>
+<br/>
+
+<h5>🌱 What I Do</h5>
+<p> Currently focusing on GenAI and AI agent development<br/> and exploring the world of AI agents<br/>Student of PIAIC</p>
+
+
 <h2>🤝 Available On:</h2>
 <div align="center"> 
   
-  <a href="muzzamilh795@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-rehan-ul-haq-b60a4b2a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/mini-duo-art" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  
+<a href="https://twitter.com/@muzzamilh795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pruthvirajjad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muzzamil793/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthviraj jadhav" height="30" width="40" /></a> <!-- sqlite, safari, google-chrome are other good icon options -->
+<a href="https://www.instagram.com/m7zzamil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pruthvirajjadhav1" height="30" width="40" /></a>
 </div>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 mini-duo-art/mini-duo-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
